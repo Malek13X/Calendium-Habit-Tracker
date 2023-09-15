@@ -18,6 +18,17 @@ Calendium is an app designed to help you build and maintain positive habits in y
 You can install Calendium on your Android device from the [Google Play Store](https://play.google.com/store/apps/).
 
 
+
+## Technologies Used
+
+- **React Native**: A popular framework for building cross-platform mobile applications.
+- **Redux Toolkit**: A library for efficient state management in React applications, including React Native.
+- **SQLite**: A self-contained, serverless, and zero-configuration SQL database engine used for local data storage.
+- **Expo**: A set of tools and libraries that simplify React Native app development and provide a smooth development experience.
+- **Node.js**: A JavaScript runtime environment used for server-side development and backend services.
+
+\
+
 ## Contact
 
 If you have any questions or feedback regarding Calendium, please contact us at [malek13x@gmail.com](malek13x@gmail.com).
