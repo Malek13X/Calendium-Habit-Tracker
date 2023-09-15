@@ -20,7 +20,7 @@ You can install Calendium on your Android device from the [Google Play Store](ht
 
 ## Contact
 
-If you have any questions or feedback regarding Calendium, please contact us at [email](malek13x@gmail.com).
+If you have any questions or feedback regarding Calendium, please contact us at [malek13x@gmail.com](malek13x@gmail.com).
 
 For more information, visit our [website](https://malek-nicolas-8c3c7c7f08f5.herokuapp.com/).
 
