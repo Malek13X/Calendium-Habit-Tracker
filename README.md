@@ -27,7 +27,7 @@ You can install Calendium on your Android device from the [Google Play Store](ht
 - **Expo**: A set of tools and libraries that simplify React Native app development and provide a smooth development experience.
 - **Node.js**: A JavaScript runtime environment used for server-side development and backend services.
 
-\
+
 
 ## Contact
 
